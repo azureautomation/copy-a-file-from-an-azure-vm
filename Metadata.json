@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 4276,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/copy-a-file-from-an-azure-vm/master/Copy-ItemFromAzureVM.ps1",
+    "DownloadCount": 3136,
+    "Id": "Copy-and-Item-from-an-c283405d",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 383,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2014-3-31T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This Azure Automation runbook copies a remote file from a Windows Azure virtual machine to the runbook host running the job. It calls the Connect-AzureVM runbook to connect to the VM, so this runbook must also be imported and published.",
+    "Title": "Copy a File from an Azure VM",
+    "UpdatedDate": "2014-8-22T00:00:00",
+    "Url": "https://github.com/azureautomation/copy-a-file-from-an-azure-vm",
+    "UserTags": "Utility"
+}
